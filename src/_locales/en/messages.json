@@ -1,0 +1,10 @@
+{
+    "name": {
+        "message": "SpeedTest",
+        "description": "extension name"
+    },
+    "description": {
+        "message": "SpeedTest in extension",
+        "description": "extension description"
+    }
+}
